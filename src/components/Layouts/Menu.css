@@ -1,0 +1,10 @@
+.divAlign {
+  display: inline-flex;
+  align-items: center;
+}
+.link {
+  color: rgb(32, 32, 32);
+}
+.link:hover {
+  color: rgb(0, 0, 0);
+}
